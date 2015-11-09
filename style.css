@@ -1,0 +1,34 @@
+body {
+	font-family: Arial;
+	background-color: #CFD8DC;
+	background-image: url("https://source.unsplash.com/category/nature/1600x900");
+}
+
+h1 {
+	text-align: center;
+}
+
+table.center {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+table, td {
+	text-align: center;
+	border: 2px;
+	border-style: solid;
+}
+
+table {
+	border-color: #26A69A;
+}
+
+td {
+	padding: 5px;
+	border-color: #00695C;
+}
+
+.top {
+	font-weight: bold;
+	border-color: #004D40;
+}
